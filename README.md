@@ -1,8 +1,9 @@
 # NodeJs_Register
 NodeJs - MongoDb - Pug - Bootstrap - Validator Example Project
 
-# For Try
-npm start
+Çalıştırmak için
+
+## npm start
 
 ![resim](https://user-images.githubusercontent.com/193318/121811146-21c49e00-cc6c-11eb-8ae0-7d84c9e679f7.png)
 
